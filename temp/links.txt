@@ -1,0 +1,5 @@
+#Data structures related links
+https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
+
+#Bellman-Ford and Dijkstra's Shortest Seeking Path Algo
+https://www.youtube.com/watch?v=EQ_1i8nWnDs&ab_channel=FullstackAcademy
